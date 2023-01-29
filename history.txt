@@ -1,0 +1,500 @@
+    4  ls -l
+    5  pwd
+    6  cd rwadmin-reactjs/
+    7  npm run build
+    8  npm start
+    9  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   10  vi webdev/links
+   11  npm start
+   12  npm i --save create-react-class
+   13  npm audit fix
+   14  npm start
+   15  npm install react-d3
+   16  npm audit fix
+   17  npm start
+   18  cd ,,
+   19  cd ..
+   20  pwd
+   21  cd ratewatch-reactjs/
+   22  vi .env.local
+   23  npm start
+   24  npm start
+   25  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   26  vim webdev/links
+   27  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   28  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   29  vim webdev/links
+   30  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   31  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   32  vi webdev/links
+   33  npm start
+   34  npm start
+   35  pwd
+   36  cd ..
+   37  npm install d3-axis
+   38  npm audit fix
+   39  cd ratewatch-reactjs/
+   40  npm start
+   41  pwd
+   42  npm start
+   43  pwd
+   44  cd ratewatch-reactjs/
+   45  npm start
+   46  vim .env
+   47  npm start
+   48  npm install d3 --save
+   49  pm audit fix
+   50  npm audit fix
+   51  npm start
+   52  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   53  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   54  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   55  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   56  vi webdev/links
+   57  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   58  vi webdev/links
+   59  pwd
+   60  npm start
+   61  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   62  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   63  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   64  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   65  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   66  vi webdev/links
+   67  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   68  pwd
+   69  npm start
+   70  pwd
+   71  cd ratewatch-reactjs/
+   72  npm start
+   73  npm install d3@6.0.0
+   74  npm audit fix
+   75  npm start
+   76  npm start
+   77  npm uninstall --save <package_name>d3
+   78  npm uninstall --save d3
+   79  npm audit fix
+   80  npm audit fix --force
+   81  npm install d3@4.0.0
+   82  npm install d3@3.0.0
+   83  npm audit fix
+   84  npm uninstall --save d3
+   85  npm audit fix
+   86  npm install d3@7.5.0
+   87  npm audit fix
+   88  npm start
+   89  npm start
+   90  npm start
+   91  npm start
+   92  npm start
+   93  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   94  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+   95  vi webdev/links
+   96  pwd
+   97  npm start
+   98  npm start
+   99  npm start
+  100  npm start
+  101  npm start
+  102  npm start
+  103  npm start
+  104  npm start
+  105  npm start
+  106  npm start
+  107  npm start
+  108  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  109  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  110  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  111  pwd
+  112  npm start
+  113  npm start
+  114  npm start
+  115  npm start
+  116  npm start
+  117  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  118  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  119  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  120  pwd
+  121  npm start
+  122  npm start
+  123  npm start
+  124  npm start
+  125  npm start
+  126  npm start
+  127  npm start
+  128  npm start
+  129  npm start
+  130  npm start
+  131  npm start
+  132  npm start
+  133  npm start
+  134  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  135  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  136  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  137  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  138  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  139  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  140  vi webdev/links
+  141  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  142  vi webdev/links
+  143  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  144  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  145  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  146  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  147  pwd
+  148  cd ratewatch-reactjs/
+  149  clear
+  150  npm start
+  151  npm start
+  152  npm start
+  153  npm start
+  154  npm start
+  155  npm start
+  156  npm start
+  157  npm start
+  158  pwd
+  159  cd ratewatch-reactjs/
+  160  npm start
+  161  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  162  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  163  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  164  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  165  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  166  pwd
+  167  npm start
+  168  npm start
+  169  npm start
+  170  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  171  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  172  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  173  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  174  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  175  pwd
+  176  npm start
+  177  npm start
+  178  npm start
+  179  npm start
+  180  npm start
+  181  pwd
+  182  cd ratewatch-reactjs/
+  183  npm start
+  184  clear
+  185  npm start
+  186  npm start
+  187  npm start
+  188  npm start
+  189  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  190  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  191  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  192  pwd
+  193  npm start
+  194  npm start
+  195  pwd
+  196  npm start
+  197  npm start
+  198  npm start
+  199  npm start
+  200  npm start
+  201  npm start
+  202  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  203  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  204  npm start
+  205  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  206  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  207  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  208  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  209  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  210  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  211  pwd
+  212  pwd
+  213  npm run build
+  214  pwd
+  215  ls -l
+  216  npm start
+  217  vim webdev/links
+  218  vim webdev/links
+  219  pwd
+  220  npm start
+  221  npm start
+  222  npm start
+  223  npm start
+  224  npm start
+  225  npm start
+  226  npm start
+  227  npm start
+  228  npm start
+  229  npm start
+  230  npm start
+  231  npm start
+  232  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  233  vi webdev/links
+  234  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  235  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  236  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  237  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  238  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  239  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  240  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  241  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  242  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  243  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  244  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  245  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  246  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  247  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  248  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  249  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  250  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  251  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  252  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  253  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  254  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  255  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  256  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  257  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  258  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  259  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  260  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  261  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  262  cd webdev/
+  263  vi links
+  264  vi links
+  265  vi links
+  266  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  267  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  268  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  269  vi webdev/links
+  270  vi webdev/links
+  271  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  272  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  273  vim webdev/links
+  274  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  275  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  276  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  277  vim webdev/links
+  278  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  279  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  280  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  281  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  282  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  283  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  284  vim webdev/links
+  285  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  286  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  287  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  288  vim webdev/links
+  289  vi webdev/link
+  290  vi webdev/links
+  291  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  292  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  293  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  294  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  295  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  296  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  297  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  298  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  299  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  300  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  301  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  302  vim webdev/links
+  303  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  304  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  305  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  306  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  307  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  308  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  309  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  310  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  311  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  312  vim webdev/links
+  313  vim webdev/links
+  314  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  315  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  316  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  317  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  318  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  319  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  320  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  321  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  322  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  323  vim webdev/links
+  324  vim webdev/links
+  325  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  326  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  327  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  328  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  329  vim webdev/links
+  330  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  331  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  332  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  333  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  334  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  335  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  336  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  337  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  338  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  339  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  340  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  341  vim webdev/links
+  342  cd webdev/
+  343  vim compare_utf_data.txt
+  344  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  345  vim webdev/compare_utf_data.txt 
+  346  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  347  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  348  cd webdev/
+  349  vim savuserinfo_not_work.txt
+  350  vim savuserinfo_works.txt
+  351  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  352  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  353  vi webdev/savuserinfo_not_work.txt 
+  354  cd webdev/
+  355  ls
+  356  clear
+  357  ls -l
+  358  vim savuserinfo_works.txt 
+  359  vim savuserinfo_not_work.txt 
+  360  vim savuserinfo_not_work.txt 
+  361  vim savuserinfo_not_work.txt 
+  362  vim savuserinfo_not_work.txt 
+  363  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  364  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  365  cd webdev/
+  366  vim links
+  367  vim links
+  368  vim webdev/links
+  369  vim webdev/links
+  370  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  371  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  372  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  373  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  374  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  375  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  376  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  377  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  378  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  379  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  380  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  381  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  382  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  383  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  384  npm start
+  385  pwd
+  386  npm start
+  387  pwd
+  388  pwd
+  389  clear
+  390  npm start
+  391  npm run build
+  392  npm
+  393  npm test
+  394  npm -l
+  395  pwd
+  396  ls -l
+  397  cd ..
+  398  ls
+  399  npm start
+  400  cd vcsc-family-master
+  401  clear
+  402  npm start
+  403  clear
+  404  npm install
+  405  npm start
+  406  clear
+  407  npm install @material-ui/core --save
+  408  npm audit fix
+  409  clear
+  410  npm start
+  411  npm install @material-ui/icons --save
+  412  npm audit fix
+  413  npm start
+  414  npm start
+  415  npm i --save firebase@latest firebase-admin@latest firebase-functions@latest
+  416  npm audit fix
+  417  npm start
+  418  npm start
+  419  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  420  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  421  vim webdev/links
+  422  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  423  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  424  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  425  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  426  man df
+  427  df
+  428  man free
+  429  man mount
+  430  man ps
+  431  man nice
+  432  man top
+  433  top
+  434  man tcpdump
+  435  man ifconfig
+  436  man strace
+  437  man strace
+  438  strace
+  439  /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/bin/java ; exit;
+  440  pwd
+  441  cd ~
+  442  cd ..
+  443  cd ..
+  444  pwd
+  445  mkd Temp
+  446  mkdir Temp
+  447  pwd
+  448  cd
+  449  pwd
+  450  mkdir Temp
+  451  cd Temp
+  452  vim employee.txt
+  453  pwd
+  454  pwd
+  455  cd ..
+  456  cd PycharmProjects/ucsf_csv_rw/
+  457  pip install xlrd
+  458  pip show pandas
+  459  cd
+  460  pip show pandas
+  461  pip install xlrd
+  462  pip show pandas
+  463  history
+  464  whereis pandas
+  465  pip show pandas
+  466  pwd
+  467  cd PycharmProjects/ucsf_csv_rw/
+  468  pwd
+  469  cd venv/
+  470  ls
+  471  pip show pandas
+  472  cd lib
+  473  ls
+  474  cd python3.7/
+  475  ls
+  476  cd site-packages/
+  477  ls
+  478  ls -l
+  479  pip show xlrd
+  480  pip install pandas
+  481  pip show pandas
+  482  pwd
+  483  cd ..
+  484  cd ..
+  485  cd ..
+  486  pwd
+  487  ls
+  488  cd ..
+  489  ls
+  490  cat employee.xls 
+  491  clear
+  492  pwd
+  493  pwd
+  494  ls -l
+  495  ls -l
+  496  pwd
+  497  ls -l
+  498  cat employee.csv
+  499  pwd
+  500  ls -l
+  501  show history
+  502  pwd
+  503  history > history.txt

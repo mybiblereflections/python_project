@@ -1,4 +1,4 @@
-# ucsf_python_project
+python_project
 #
 This python program read an xls spreadsheet located in c:/PycharmProjects/temp/incoming/employee.xls and 
 calculate values in “expense” columns and then sum them up and place it in totalexpense column. Thenit
